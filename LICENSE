@@ -1,0 +1,33 @@
+The Nyan Cat License (NCL) Version 1.0
+
+Copyright (c) 2011, TheAkulaShark
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that 
+the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the 
+following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and 
+the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+3. Products derived from this software must have a title screen, a splash screen, or an about page that meets 
+the following conditions:
+  A. Must contain an embedded video of Nyan Cat, as origninally presented in the Nyan Cat Meme, and shown 
+     on https://www.youtube.com/watch?v=QH2-TGUlwu4.
+  B. Embedded Nyan Cat video must be prominently displayed, taking no less space than the title of the 
+     product.
+  C. The "meow-meow-meow, meow-meow-meow-meow-meow" soundtrack of the Nyan Cat Video must be enabled and 
+     played at the fullest allowable volume by the platform, where the platform is the environment in which 
+     the software product runs.
+  D. Nyan Cat Video and sound must be played for at least 30 seconds before closing, and cannot be dismissed 
+     by the user until after that time has elapsed.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED 
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A 
+PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY 
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, 
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) 
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING 
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
+POSSIBILITY OF SUCH DAMAGE.
